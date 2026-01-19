@@ -5,22 +5,22 @@ import SingleExperience from "./SingleExperience";
 
 const experiences = [
   {
-    job: "Front-End Developer",
+    job: "Full Stack Developer",
     company: "KVL Business Solutions",
-    date: "Feb 2025 - Present",
+    date: "Nov 2024 - Dec 2025",
     responsibilities: [
-"Developing full-stack MERN applications with AI integration,",
-"Creating high-performance RESTful APIs using Node.js, Express.js, and FastAPI,",
-"Automating business processes to enhance user experience and efficiency.",
+      "Developing full-stack MERN applications with AI integration,",
+      "Creating high-performance RESTful APIs using Node.js, Express.js.",
+      "Automating business processes to enhance user experience and efficiency.",
     ],
   },
   {
-    job: "Full-Stack Developer",
+    job: "Front End Developer",
     company: "National Institute of Electronics & Information Technology",
-    date: "Dec 2024 - Jan 2025",
+    date: "Oct 2024 - Nov 2024",
     responsibilities: [
-"Designed responsive UIs using HTML, CSS, and JavaScript for better usability.",
-"Led full-stack development and collaboration to deliver fast, reliable web apps.",
+      "Designed responsive UIs using HTML, CSS, and JavaScript for better usability.",
+      "Led full-stack development and collaboration to deliver fast, reliable web apps.",
     ],
   },
   {
@@ -28,9 +28,9 @@ const experiences = [
     company: "codeSoft",
     date: "Nov 2023 - Apr 2024",
     responsibilities: [
-"Guiding students in building real-world web projects.",
-"Explaining core concepts of MERN stack development.",
-"Supporting learners in debugging and improving their code.",
+      "Guiding students in building real-world web projects.",
+      "Explaining core concepts of MERN stack development.",
+      "Supporting learners in debugging and improving their code.",
     ],
   },
 ];

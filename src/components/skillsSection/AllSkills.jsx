@@ -9,6 +9,9 @@ import { SiNextdotjs } from "react-icons/si";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
+import { SiMongodb } from "react-icons/si";
+import { SiMysql } from "react-icons/si";
+import { FaDocker } from "react-icons/fa6";
 
 const skills = [
   {
@@ -42,6 +45,18 @@ const skills = [
   {
     skill: "TailwindCSS",
     icon: RiTailwindCssFill,
+  },
+  {
+    skill: "MongoDB",
+    icon: SiMongodb,
+  },
+  {
+    skill: "Mysql",
+    icon: SiMysql,
+  },
+  {
+    skill: "Docker",
+    icon: FaDocker,
   },
 ];
 

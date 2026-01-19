@@ -10,8 +10,10 @@ const ExperienceTopRight = () => {
         solutions. <br />
         My experience spans working on diverse projects, from small business
         websites to{" "}
-        <span className="font-bold text-white">complex front-end systems</span>,
-        always aiming for clean code and exceptional user experiences.
+        <span className="font-bold text-white">
+          complex front-end & back-end systems
+        </span>
+        , always aiming for clean code and exceptional user experiences.
       </p>
     </div>
   );
